@@ -12,7 +12,7 @@ import static javax.imageio.ImageIO.write;
 public class Anaglyph {
 
     public static final String FORMAT_NAME = "jpg";
-    public static final String PATH = "/home/galayy/IdeaProjects/OZI/src/main/resources/";
+    public static final String PATH = "/home/galayy/IdeaProjects/OIZ/OIZ2/src/main/resources/";
 
     private static final double[][][] COLOR_MATRIX = {{{1, 0, 0}, {0, 0, 0}, {0, 0, 0}},
             {{0, 0, 0}, {0, 1, 0}, {0, 0, 1}}};
