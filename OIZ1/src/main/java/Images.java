@@ -8,7 +8,7 @@ import static javax.imageio.ImageIO.write;
 class Images {
 
     public static final String FORMAT_NAME = "jpeg";
-    public static final String PATH = "/home/galayy/IdeaProjects/OIZ1/src/main/resources/";
+    public static final String PATH = "/home/galayy/IdeaProjects/OIZ/OIZ1/src/main/resources/";
 
     public static void main(String[] a) throws Throwable {
         var file = new File(PATH + "in.jpeg");
