@@ -1,0 +1,6 @@
+.gradle
+.idea
+build
+
+src/main/resources/
+!src/main/resources/in.jpeg
